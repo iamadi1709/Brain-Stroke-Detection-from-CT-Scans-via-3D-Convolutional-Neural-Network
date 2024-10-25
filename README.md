@@ -2,8 +2,7 @@
 
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/713bd0ea-bddf-4eb0-9d96-29ad231968de">
 
-
-Welcome to our Advanced Brain Stroke Detection and Prediction System! This project combines the power of Deep Learning and Machine Learning to provide an innovative approach to stroke diagnosis and risk prediction, leveraging 3D CNNs for CT scan analysis and a predictive ML pipeline based on clinical data. 🚀💉
+**Welcome to our Advanced Brain Stroke Detection and Prediction System! This project combines the power of Deep Learning and Machine Learning to provide an innovative approach to stroke diagnosis and risk prediction, leveraging 3D CNNs for CT scan analysis and a predictive ML pipeline based on clinical data. 🚀💉**
 
 📜 Abstract: Stroke is a leading cause of severe long-term disability and mortality worldwide. Timely detection and accurate risk prediction are crucial to reduce its impact on individuals and healthcare systems. This project introduces an Advanced Brain Stroke Detection and Prediction System that utilizes 3D Convolutional Neural Networks (3D CNNs) for stroke identification from CT scans, combined with Machine Learning (ML) models for predicting stroke risk based on clinical data. The 3D CNN model performs image analysis on volumetric CT data to classify brain images into stroke and non-stroke categories. Additionally, clinical risk factors, such as age, lifestyle, and comorbidities, are analyzed using ML classifiers, achieving a prediction accuracy of 98% with XGBoost. This system provides an end-to-end solution for early stroke detection and risk assessment, supporting healthcare providers in decision-making processes.
 
@@ -209,6 +208,10 @@ SHAP for Clinical Data: Implement SHAP (SHapley Additive exPlanations) values to
 
 💡 Conclusion
 This project successfully demonstrates a combined approach for brain stroke detection and prediction, utilizing both CT scans and clinical data. The high accuracy achieved in both tasks illustrates the efficacy of integrating 3D CNNs with traditional ML models for medical diagnosis and risk assessment. Future enhancements include expanding the dataset, model optimization, and deploying a real-time web-based application for practical use.
+
+To install, all the requirements: pip install -r requirements.txt
+
+To clone the repository: 
 
 📬 Contact
 Feel free to reach out if you have any questions!
