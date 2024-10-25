@@ -2,6 +2,7 @@
 
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/713bd0ea-bddf-4eb0-9d96-29ad231968de">
 
+
 Welcome to our Advanced Brain Stroke Detection and Prediction System! This project combines the power of Deep Learning and Machine Learning to provide an innovative approach to stroke diagnosis and risk prediction, leveraging 3D CNNs for CT scan analysis and a predictive ML pipeline based on clinical data. 🚀💉
 
 📜 Abstract: Stroke is a leading cause of severe long-term disability and mortality worldwide. Timely detection and accurate risk prediction are crucial to reduce its impact on individuals and healthcare systems. This project introduces an Advanced Brain Stroke Detection and Prediction System that utilizes 3D Convolutional Neural Networks (3D CNNs) for stroke identification from CT scans, combined with Machine Learning (ML) models for predicting stroke risk based on clinical data. The 3D CNN model performs image analysis on volumetric CT data to classify brain images into stroke and non-stroke categories. Additionally, clinical risk factors, such as age, lifestyle, and comorbidities, are analyzed using ML classifiers, achieving a prediction accuracy of 98% with XGBoost. This system provides an end-to-end solution for early stroke detection and risk assessment, supporting healthcare providers in decision-making processes.
@@ -24,9 +25,18 @@ Preprocessing: Data Augmentation: To increase the robustness of the model, advan
 
 Rotation and Zooming: To simulate different angles and scales of the brain CT scans.
 
+![image](https://github.com/user-attachments/assets/2df717cd-2601-4f25-8e32-5162b6b731a2)
+
+
 Flipping: To account for anatomical variations.
 
+![image](https://github.com/user-attachments/assets/9879b880-7e76-400a-a4e0-980d7e8295c8)
+
+
 Normalization: Ensures consistent pixel values across all CT scans.
+
+![image](https://github.com/user-attachments/assets/0d013781-d720-4d66-8e50-bc27be52b76d)
+
 
 Model Architecture: 3D CNN: A Convolutional Neural Network adapted to process three-dimensional data, enabling it to learn spatial features across multiple frames of CT scans.
 
