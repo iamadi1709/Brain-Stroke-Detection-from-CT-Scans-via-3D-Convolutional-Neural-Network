@@ -211,7 +211,7 @@ This project successfully demonstrates a combined approach for brain stroke dete
 
 To install, all the requirements: pip install -r requirements.txt
 
-To clone the repository: 
+To clone the repository: https://github.com/iamadi1709/Brain-Stroke-Detection-from-CT-Scans-via-3D-Convolutional-Neural-Network.git
 
 📬 Contact
 Feel free to reach out if you have any questions!
