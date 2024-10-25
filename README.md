@@ -1,4 +1,4 @@
-<img width="526" alt="image" src="https://github.com/user-attachments/assets/478baedf-4f02-431e-a6a2-c34eaef5e2c8">🧠 Advanced Brain Stroke Detection and Prediction System 🧠 : Integrating 3D Convolutional Neural Networks and Machine Learning on CT Scans and Clinical Data
+🧠 Advanced Brain Stroke Detection and Prediction System 🧠 : Integrating 3D Convolutional Neural Networks and Machine Learning on CT Scans and Clinical Data
 
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/713bd0ea-bddf-4eb0-9d96-29ad231968de">
 
