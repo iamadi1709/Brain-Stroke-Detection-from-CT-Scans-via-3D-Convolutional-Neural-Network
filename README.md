@@ -38,19 +38,19 @@ Normalization: Ensures consistent pixel values across all CT scans.
 ![image](https://github.com/user-attachments/assets/0d013781-d720-4d66-8e50-bc27be52b76d)
 
 
-Model Architecture: 3D CNN: A Convolutional Neural Network adapted to process three-dimensional data, enabling it to learn spatial features across multiple frames of CT scans.
+**Model Architecture: 3D CNN**: A Convolutional Neural Network adapted to process three-dimensional data, enabling it to learn spatial features across multiple frames of CT scans.
 
-Layers:Convolutional Layers: Extract spatial features from volumetric data.
+**Layers:Convolutional Layers**: Extract spatial features from volumetric data.
 
-Pooling Layers: Downsample features to reduce dimensionality and computational load.
+**Pooling Layers**: Downsample features to reduce dimensionality and computational load.
 
-Fully Connected Layers: Generate the final prediction (Stroke or Normal) based on the extracted features.
+**Fully Connected Layers**: Generate the final prediction (Stroke or Normal) based on the extracted features.
 
-Training and Evaluation
+**Training and Evaluation**
 
-Training: The model is trained with extensive data augmentation to prevent overfitting.
+**Training**: The model is trained with extensive data augmentation to prevent overfitting.
 
-Evaluation: Metrics include Accuracy, Precision, Recall, F1-score, and ROC AUC for performance assessment.
+**Evaluation**: Metrics include Accuracy, Precision, Recall, F1-score, and ROC AUC for performance assessment.
 
 **(ii). Stroke Risk Prediction from Clinical Data Using ML Models**
 
