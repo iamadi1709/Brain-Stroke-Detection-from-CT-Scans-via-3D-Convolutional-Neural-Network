@@ -1,0 +1,38 @@
+# Core Data Science and Machine Learning Libraries
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+scipy==1.10.1
+
+# Deep Learning Libraries
+tensorflow==2.13.0
+keras==2.13.1
+torch==2.0.1
+torchvision==0.15.2
+
+# Image Processing Libraries
+opencv-python==4.8.0.74
+Pillow==10.0.1
+
+# Visualization Libraries
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Model Optimization Libraries
+optuna==3.2.0
+xgboost==1.7.6
+lightgbm==4.0.0
+
+# Augmentation Libraries
+albumentations==1.3.1
+
+# Explainability Libraries
+shap==0.42.2
+lime==0.2.0.1
+
+# Deployment Libraries (for Streamlit and Web App)
+streamlit==1.25.0
+flask==3.1.0
+
+# Miscellaneous Utilities
+tqdm==4.66.1
